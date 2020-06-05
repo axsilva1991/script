@@ -1,5 +1,5 @@
 # Script
-Este script tem como objetivo instalar todos os arquivos básicos para um desenvolvedor back-end incluindo os pacotes:
+Este script tem como objetivo instalar todos os aplicativos e programas básicos para um desenvolvedor back-end incluindo os pacotes:
 - Curl<br>
 - Git<br>
 - Openjdk<br>
