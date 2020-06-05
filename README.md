@@ -4,6 +4,7 @@ Este script tem como objetivo instalar todos os aplicativos e programas básicos
 - Git<br>
 - Openjdk<br>
 - Docker<br>
+- Postmanbr>
 - Node js<br>
 - Eclipse<br>
 - Intellij<br>
