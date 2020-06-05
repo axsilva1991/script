@@ -22,8 +22,12 @@ sudo snap install --classic eclipse
 echo 'intellij'
 sudo snap install intellij-idea-community --classic --edge
 
+echo 'postman'
+sudo snap install postman
+
 echo 'git-cola'
 sudo apt-get install git-cola
+
 echo 'spotify'
 sudo sh -c "echo 'deb http://repository.spotify.com stable non-free' >> /etc/apt/sources.list.d/spotify.list"
 sudo sh -c "echo 'deb http://repository.spotify.com testing non-free' >> /etc/apt/sources.list.d/spotify.list"
