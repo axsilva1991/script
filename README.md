@@ -9,3 +9,4 @@ Este script tem como objetivo instalar todos os aplicativos e programas básicos
 - Eclipse
 - Intellij
 - Git-cola
+- Bash-Completion
