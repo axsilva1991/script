@@ -3,6 +3,9 @@ sudo apt-get update
 echo 'installing curl' 
 sudo apt-get install curl -y
 
+echo 'bash-completion'
+sudo apt-get install --reinstall bash-completion
+
 echo 'installing git' 
 sudo apt-get install git -y
 
